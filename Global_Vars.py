@@ -1,0 +1,15 @@
+class Global_Vars:
+    model = []
+    Images = []
+    Feat = []
+    Feat_1 = []
+    Feat_2 = []
+    Feat_3 = []
+    Feat_4 = []
+    Target = []
+    Ground_Truth = []
+    learnperc = None
+    Train_Data = []
+    Train_Target = []
+    Test_Data = []
+    Test_Target = []
